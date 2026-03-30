@@ -29,4 +29,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ChristianRodes/practica_7.1:latest
+            christianrodes/practica_7.1:latest
